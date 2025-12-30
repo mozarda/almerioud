@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Almeri Oud",
+    "description": "",
+    "home_page_url": "https://mozarda.github.io/almerioud",
+    "feed_url": "https://mozarda.github.io/almerioud/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Almeri"
+    },
+    "items": [
+    ]
+}
